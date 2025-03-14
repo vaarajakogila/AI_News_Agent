@@ -1,0 +1,15 @@
+# Ignore the .env file to keep credentials safe
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+venv/
+env/
+
+# Ignore logs and temp files
+*.log
+*.tmp
